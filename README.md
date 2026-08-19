@@ -215,7 +215,5 @@ IPL-Sports-Dataset-Visual-Story/
 │   └── IPL_Visual_Story_Dashboard.html
 │
 ├── report/
-│   └── IPL_Sports_Dataset_Visual_Story_Report.pdf
-│
-└── data/
-    └── README.md
+    └── IPL_Sports_Dataset_Visual_Story_Report.pdf
+
